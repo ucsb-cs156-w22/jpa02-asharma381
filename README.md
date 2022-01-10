@@ -1,4 +1,4 @@
-# STARTER-asharma381
+# jpa02-asharma381
 
 Repo: https://github.com/ucsb-cs156-w22/jpa02-asharma381
 
