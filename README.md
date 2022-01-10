@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-w22/jpa02-asharma381
 
-On Heroku: https://jpa02-asharma381.herokuapp.com/
+On Heroku: https://jpa02-aditya-sharma.herokuapp.com/
 
 On Codecov: https://app.codecov.io/gh/ucsb-cs156-w22/jpa02-asharma381
 
